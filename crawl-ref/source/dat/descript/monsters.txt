@@ -1170,7 +1170,7 @@ ghost crab
 A crab twisted by proximity to negative energy. Apparitions of the dead swirl
 around it, only barely visible.
 %%%%
-ghost moth
+ghst moth
 
 A vile interdimensional predator that feeds on the life force of living beings.
 It resembles an enormous, spiny moth.
@@ -1748,6 +1748,12 @@ oklob sapling
 
 A young oklob plant. It is more fragile than the mature specimen, but the acid
 it sprays is just as deadly.
+%%%%
+ookami
+
+A humanoid descended of those touched by the wolf god of spring, Asena. Bearing 
+a lupine tail and ears, with blackened, hard nails, they are known for their
+tenacity and group tactics.
 %%%%
 ooze
 
